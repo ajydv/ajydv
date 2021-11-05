@@ -2,9 +2,9 @@
 🙏 I'm Ajay Yadav
 
 <h2>Full Stack Developer 👨‍💻</h2>
-<p><a href="https://www.facebook.com/yajayg/" rel="nofollow">FaceBook</a>
+<p><a href="https://www.facebook.com/yajayg/">FaceBook</a>
 <a href="mailto:dev.yajay@gmail.com">Gmail</a>
-<a  href="https://www.linkedin.com/in/ajay-it-developer/">LinkedIn</a></p>
+<a href="https://www.linkedin.com/in/ajay-it-developer/">LinkedIn</a></p>
 <h3>A little more about me...</h3>
 <pre>
 <span>const myInfo = {</span>
