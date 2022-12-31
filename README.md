@@ -14,7 +14,7 @@
           <span>backEnd: ["PHP","ASP.Net","JAVA"],</span>
           <span>database: ["MySql","SQL Server","mongo"],</span>
           <span>uiFramework: ["bootstrap","react-native-elements","react-native-paper","material-ui"],</span>
-          <span>others:["Postman"]</span>
+          <span>others:["Postman","NiFi ETL Tool","TFS"]</span>
       <span>},</span>
       <span>interests: ["music", "travel", "Programing"]</span>
 <span>}</span>
